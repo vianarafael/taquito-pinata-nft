@@ -1,6 +1,6 @@
 # taquito-pinata-nft
 
-## You'll need to generate a [Pinata API Key](https://www.pinata.cloud/).
+## you'll need to generate a [pinata api key](https://www.pinata.cloud/).
 
 Add in a file called PinataKeys.js and add the following:
 ```
